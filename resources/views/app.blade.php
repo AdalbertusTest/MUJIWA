@@ -11,7 +11,7 @@
         <link href="https://fonts.bunny.net/css?family=inter:100,200,300,400,500,600,700,800,900|poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
         <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
         <link rel="preconnect" href="https://r2.mujiwa.cz" />
-        <meta property="og:title" content="{{'PROJECT MUJIWA | '.$meta['openGraph']['title'] ?? 'PROJECT MUJIWA | Nová [Anime, Dorama, Manga] databáze založena na staré akihabaře a akidb'}}" />
+        <meta property="og:title" content="{{$meta['openGraph']['title'] ?? 'PROJECT MUJIWA | Nová [Anime, Dorama, Manga] databáze založena na staré akihabaře a akidb'}}" />
         <meta property="og:type" content="{{$meta['openGraph']['type'] ?? 'website'}}" />
         <meta property="og:url" content="{{$meta['openGraph']['url'] ?? \Illuminate\Support\Facades\URL::current()}}" />
         <meta property="og:image" content="{{$meta['openGraph']['image'] ?? 'https://r2.mujiwa.cz/og.png'}}" />
