@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ app()->getLocale() }}">
+<html lang="{{ app()->getLocale() }}" class="relative h-full">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -23,7 +23,7 @@
         @vitereactrefresh
         @vite('resources/client/main.jsx')
     </head>
-    <body>
+    <body class="h-full bg-blue-50 dark:bg-slate-900">
 
     </body>
 </html>
