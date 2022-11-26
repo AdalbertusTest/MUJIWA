@@ -22,8 +22,9 @@
         <meta name="twitter:image" content="{{$meta['twitter']['image'] ?? 'https://r2.mujiwa.cz/og.png'}}" />
         @vitereactrefresh
         @vite('resources/client/main.jsx')
+        @inertiaHead
     </head>
     <body class="h-full bg-blue-50 dark:bg-slate-900">
-
+        @inertia
     </body>
 </html>
