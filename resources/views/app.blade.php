@@ -20,6 +20,8 @@
         <meta property="theme-color" content="{{$meta['theme'] ?? '#0099FF'}}" />
         <meta name="twitter:card" content="{{$meta['twitter']['card'] ?? 'summary_large_image'}}">
         <meta name="twitter:image" content="{{$meta['twitter']['image'] ?? 'https://r2.mujiwa.cz/og.png'}}" />
+        @vitereactrefresh
+        @vite('resources/client/main.jsx')
     </head>
     <body>
 
