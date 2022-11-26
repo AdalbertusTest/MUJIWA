@@ -13,6 +13,7 @@
     },
     "dependencies": {
         "@inertiajs/react": "^1.0.0-beta.1",
+        "framer-motion": "^7.6.12",
         "react": "^18.2.0",
         "react-dom": "^18.2.0"
     }
