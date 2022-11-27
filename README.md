@@ -13,12 +13,84 @@
 
 TODO: Údělám jakmile dokončím design ostatních sekcí
 
+## Collaborators
+
+<strong>Legenda</strong>
+- 🎉 Zakladatel projektu
+- 🔮 Zakladatel projektu (Není už členem)
+- 💻 Programátor
+- 📐 UI Developer
+- 🔬 Tester
+- 🎇 Designer
+- 👫 Partner projektu
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/adalbertus250"><img src="https://avatars.githubusercontent.com/u/14820071?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <sub><b>Adalbertus250</b></sub></a>
+            <br/>
+            <span align="center">🎉 💻 📐 🔬 🎇</span>
+        </td>
+        <td align="center">
+            <a href="https://github.com/nouzi"><img src="https://avatars.githubusercontent.com/u/93097307?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <sub><b>XarlMont</b></sub></a>
+            <br/>
+            <span align="center">🎉 🔬 🎇</span>
+        </td>
+         <td align="center">
+            <a href="https://github.com/nouzi"><img src="https://avatars.githubusercontent.com/u/37242088?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <sub><b>Amachik</b></sub></a>
+            <br/>
+            <span align="center">🔮 🔬 👫</span>
+        </td>
+        <td align="center">
+            <a href="https://github.com/nouzi"><img src="https://avatars.githubusercontent.com/u/77692484?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <sub><b>Nouzi</b></sub></a>
+            <br/>
+            <span align="center">💻 🔬</span>
+        </td>
+        <td align="center">
+            <a href="https://github.com/DeLHp1"><img src="https://avatars.githubusercontent.com/u/84537833?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <sub><b>DeLHp1</b></sub></a>
+            <br/>
+            <span align="center">🔬 👫</span>
+        </td>
+        <td align="center">
+            <a href="https://github.com/DeamonKira"><img src="https://avatars.githubusercontent.com/u/74453003?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <sub><b>DeamonKira</b></sub></a>
+            <br/>
+            <span align="center">🔬 👫</span>
+        </td>
+        <td align="center">
+            <a href="https://github.com/papousekCZ"><img src="https://avatars.githubusercontent.com/u/31703353?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <sub><b>papousekCZ</b></sub></a>
+            <br/>
+            <span align="center">🔬 👫</span>
+        </td>
+    </tr>
+</table>
+
+## Partneři projektu
+
+| Partner                                                                                                                                                                                                                                                                                                                 | Členové                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| <a href="https://hiyori.cz"><picture><source media="(prefers-color-scheme: dark)" srcset="/.assets/img/partners/hiyori-dark.png" /><source media="(prefers-color-scheme: light)" srcset="/.assets/img/partners/hiyori-light.png" /><img src="/.assets/img/partners/hiyori-light.png" alt="Hiyori" /></picture></a>      | @Amachik @papousekCZ @DeamonKira |
+| <a href="https://shinsou.cz"><picture><source media="(prefers-color-scheme: dark)" srcset="/.assets/img/partners/shinsou-dark.png" /><source media="(prefers-color-scheme: light)" srcset="/.assets/img/partners/shinsou-light.png" /><img src="/.assets/img/partners/shinsou-light.png" alt="Shinsou" /></picture></a> | @DeLHp1                          |
+
+
 ## Jednotlivý weby PROJECT MUJIWA
 
-| Web             | Odkaz                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Web MUJIWA      | [![MW](https://img.shields.io/website?down_color=red&down_message=Offline&label=MUJIWA&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTA0IiBoZWlnaHQ9IjQxIiB2aWV3Qm94PSIwIDAgMTA0IDQxIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTAyLjY0MiAyLjA2NDQ1TDkwLjMyMDYgMzguOTk4NUg4MC42MDY2TDcyLjkyODMgMjEuMTU4TDY1LjM5MjggMzguOTk4NUg1NS42Nzg5TDQzLjE0MzYgMi4wNjQ0NUg1NC45NjQ2TDYxLjQ2NDQgMjMuMzY3NUw3MC45OTk4IDIuMjYyMzFINzQuODIxMUw4NC41MzUxIDIzLjM2NzVMOTAuODkyIDIuMDY0NDVIMTAyLjY0MloiIGZpbGw9IiMwMDk5RkYiIHN0cm9rZT0iIzAwOTlGRiIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTQzLjgyMDEgMzguOTM0TDQwLjcxMyAxNy42NjRMMzAuMTA2MiAzOUgyNi44NTYzTDE2LjI0OTUgMTcuNjY0TDEzLjE3ODIgMzguOTM0SDJMOC4wMzU1MiAySDE5LjAzNTJMMjguNDYzNCAyMi4wODI5TDM3Ljk2MzEgMkg0OC45NjI4TDU0Ljk2MjYgMzguOTM0SDQzLjgyMDFaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc%2BCg%3D%3D&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fmujiwa.cz)](https://mujiwa.cz)                       |
-| Web MUJIWA BETA | [![MW BETA](https://img.shields.io/website?down_color=red&down_message=Offline&label=MUJIWA%20BETA&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTA0IiBoZWlnaHQ9IjQxIiB2aWV3Qm94PSIwIDAgMTA0IDQxIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTAyLjY0MiAyLjA2NDQ1TDkwLjMyMDYgMzguOTk4NUg4MC42MDY2TDcyLjkyODMgMjEuMTU4TDY1LjM5MjggMzguOTk4NUg1NS42Nzg5TDQzLjE0MzYgMi4wNjQ0NUg1NC45NjQ2TDYxLjQ2NDQgMjMuMzY3NUw3MC45OTk4IDIuMjYyMzFINzQuODIxMUw4NC41MzUxIDIzLjM2NzVMOTAuODkyIDIuMDY0NDVIMTAyLjY0MloiIGZpbGw9IiMwMDk5RkYiIHN0cm9rZT0iIzAwOTlGRiIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTQzLjgyMDEgMzguOTM0TDQwLjcxMyAxNy42NjRMMzAuMTA2MiAzOUgyNi44NTYzTDE2LjI0OTUgMTcuNjY0TDEzLjE3ODIgMzguOTM0SDJMOC4wMzU1MiAySDE5LjAzNTJMMjguNDYzNCAyMi4wODI5TDM3Ljk2MzEgMkg0OC45NjI4TDU0Ljk2MjYgMzguOTM0SDQzLjgyMDFaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc%2BCg%3D%3D&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fbeta.mujiwa.cz)](https://beta.mujiwa.cz) |
-| Web MUJIWA API  | [![MW API](https://img.shields.io/website?down_color=red&down_message=Offline&label=MUJIWA%20API&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTA0IiBoZWlnaHQ9IjQxIiB2aWV3Qm94PSIwIDAgMTA0IDQxIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTAyLjY0MiAyLjA2NDQ1TDkwLjMyMDYgMzguOTk4NUg4MC42MDY2TDcyLjkyODMgMjEuMTU4TDY1LjM5MjggMzguOTk4NUg1NS42Nzg5TDQzLjE0MzYgMi4wNjQ0NUg1NC45NjQ2TDYxLjQ2NDQgMjMuMzY3NUw3MC45OTk4IDIuMjYyMzFINzQuODIxMUw4NC41MzUxIDIzLjM2NzVMOTAuODkyIDIuMDY0NDVIMTAyLjY0MloiIGZpbGw9IiMwMDk5RkYiIHN0cm9rZT0iIzAwOTlGRiIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTQzLjgyMDEgMzguOTM0TDQwLjcxMyAxNy42NjRMMzAuMTA2MiAzOUgyNi44NTYzTDE2LjI0OTUgMTcuNjY0TDEzLjE3ODIgMzguOTM0SDJMOC4wMzU1MiAySDE5LjAzNTJMMjguNDYzNCAyMi4wODI5TDM3Ljk2MzEgMkg0OC45NjI4TDU0Ljk2MjYgMzguOTM0SDQzLjgyMDFaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc%2BCg%3D%3D&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fapi.mujiwa.cz)](https://api.mujiwa.cz)     |
+| Web             | Odkaz                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Aktuální verze sestavení |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| Web MUJIWA      | [![MW](https://img.shields.io/website?down_color=red&down_message=Offline&label=MUJIWA&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTA0IiBoZWlnaHQ9IjQxIiB2aWV3Qm94PSIwIDAgMTA0IDQxIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTAyLjY0MiAyLjA2NDQ1TDkwLjMyMDYgMzguOTk4NUg4MC42MDY2TDcyLjkyODMgMjEuMTU4TDY1LjM5MjggMzguOTk4NUg1NS42Nzg5TDQzLjE0MzYgMi4wNjQ0NUg1NC45NjQ2TDYxLjQ2NDQgMjMuMzY3NUw3MC45OTk4IDIuMjYyMzFINzQuODIxMUw4NC41MzUxIDIzLjM2NzVMOTAuODkyIDIuMDY0NDVIMTAyLjY0MloiIGZpbGw9IiMwMDk5RkYiIHN0cm9rZT0iIzAwOTlGRiIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTQzLjgyMDEgMzguOTM0TDQwLjcxMyAxNy42NjRMMzAuMTA2MiAzOUgyNi44NTYzTDE2LjI0OTUgMTcuNjY0TDEzLjE3ODIgMzguOTM0SDJMOC4wMzU1MiAySDE5LjAzNTJMMjguNDYzNCAyMi4wODI5TDM3Ljk2MzEgMkg0OC45NjI4TDU0Ljk2MjYgMzguOTM0SDQzLjgyMDFaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc%2BCg%3D%3D&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fmujiwa.cz)](https://mujiwa.cz)                       | [![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F61ee623f-7ff2-44db-aaf5-83fbe34ad941%3Fdate%3D1%26commit%3D1&style=for-the-badge)](https://forge.laravel.com) |
+| Web MUJIWA API  | [![MW API](https://img.shields.io/website?down_color=red&down_message=Offline&label=MUJIWA%20API&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTA0IiBoZWlnaHQ9IjQxIiB2aWV3Qm94PSIwIDAgMTA0IDQxIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTAyLjY0MiAyLjA2NDQ1TDkwLjMyMDYgMzguOTk4NUg4MC42MDY2TDcyLjkyODMgMjEuMTU4TDY1LjM5MjggMzguOTk4NUg1NS42Nzg5TDQzLjE0MzYgMi4wNjQ0NUg1NC45NjQ2TDYxLjQ2NDQgMjMuMzY3NUw3MC45OTk4IDIuMjYyMzFINzQuODIxMUw4NC41MzUxIDIzLjM2NzVMOTAuODkyIDIuMDY0NDVIMTAyLjY0MloiIGZpbGw9IiMwMDk5RkYiIHN0cm9rZT0iIzAwOTlGRiIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTQzLjgyMDEgMzguOTM0TDQwLjcxMyAxNy42NjRMMzAuMTA2MiAzOUgyNi44NTYzTDE2LjI0OTUgMTcuNjY0TDEzLjE3ODIgMzguOTM0SDJMOC4wMzU1MiAySDE5LjAzNTJMMjguNDYzNCAyMi4wODI5TDM3Ljk2MzEgMkg0OC45NjI4TDU0Ljk2MjYgMzguOTM0SDQzLjgyMDFaIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjAxNjc0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc%2BCg%3D%3D&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fapi.mujiwa.cz)](https://api.mujiwa.cz)     | [![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F61ee623f-7ff2-44db-aaf5-83fbe34ad941%3Fdate%3D1%26commit%3D1&style=for-the-badge)](https://forge.laravel.com)|
 
+## Sociální sítě
+
+<p>
+        <a href="https://github.com/PROJECT-MUJIWA"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=GITHUB&message=odkaz&color=333333" alt="GITHUB PROJECT MUJIWA"/></a>
+        <a href="https://discord.mujiwa.cz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=DISCORD&message=odkaz&color=5865F2" alt="DISCORD PROJECT MUJIWA"/></a>
+        <a href="https://discord.mujiwa.cz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=INSTAGRAM&message=odkaz&color=bd2c00" alt="INSTAGRAM PROJECT MUJIWA"/></a>
+</p>
 
