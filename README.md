@@ -13,6 +13,10 @@
 
 TODO: Údělám jakmile dokončím design ostatních sekcí
 
+## Changelog
+
+Ten zatím není, bude generován jakmile bude web v provozu jako open-beta.
+
 ## Collaborators
 
 <strong>Legenda</strong>
@@ -93,4 +97,15 @@ TODO: Údělám jakmile dokončím design ostatních sekcí
         <a href="https://discord.mujiwa.cz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=DISCORD&message=odkaz&color=5865F2" alt="DISCORD PROJECT MUJIWA"/></a>
         <a href="https://discord.mujiwa.cz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=INSTAGRAM&message=odkaz&color=bd2c00" alt="INSTAGRAM PROJECT MUJIWA"/></a>
 </p>
+
+## Projekt vytvořila skupina
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/.assets/img/team-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="/.assets/img/team-light.png" />
+    <img src="" alt="Logo TEAM MUJIWA" />
+</picture>
+<br />
+> <strong>Pro ty, kteří věnují svůj čas asijské kultuře</strong>
+
 
