@@ -19,7 +19,7 @@ TODO: Vymyslet lepší text :facepalm:
 
 ## Nahlašování chyb
 
-Chyby které souviší s naším programem můžete nahlásit na našem discordu pomocí ticketu nebo na githubu, do budoucna máme v plánu udělat jednotný systém na nahlašování chyb.
+Chyby které souvisí s naším projektem, můžete nahlásit na našem discordu pomocí ticketu nebo na githubu, do budoucna máme v plánu udělat jednotný systém na nahlašování chyb.
 
 ## Changelog
 
