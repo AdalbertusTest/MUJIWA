@@ -11,7 +11,15 @@
 
 ## O nás
 
-TODO: Údělám jakmile dokončím design ostatních sekcí
+PROJECT MUJIWA je nová databáze zaměřená na publikaci překladu od různých komunit věnující se překladu na jakoukoliv asijskou tvorbu.
+
+Tento projekt vychází ze starých databází Akihabara.cz & Akidb.eu, získali jsme jejich data  které zveřejnili veřejnosti a využívame jejich základ v naší databázi, nemáme s konkrétnimi již neexistujícími projekty žádnou souvislost, využíváme jenom jejich bývale databáze.
+
+TODO: Vymyslet lepší text :facepalm:
+
+## Nahlašování chyb
+
+Chyby které souviší s naším programem můžete nahlásit na našem discordu pomocí ticketu nebo na githubu, do budoucna máme v plánu udělat jednotný systém na nahlašování chyb.
 
 ## Changelog
 
