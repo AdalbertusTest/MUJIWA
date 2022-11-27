@@ -100,12 +100,12 @@ Ten zatím není, bude generován jakmile bude web v provozu jako open-beta.
 
 ## Projekt vytvořila skupina
 
-<picture>
+<picture style="height:520px">
     <source media="(prefers-color-scheme: dark)" srcset="/.assets/img/team-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="/.assets/img/team-light.png" />
     <img src="" alt="Logo TEAM MUJIWA" />
 </picture>
 <br />
-> <strong>Pro ty, kteří věnují svůj čas asijské kultuře</strong>
+<strong>Pro ty, kteří věnují svůj čas asijské kultuře</strong>
 
 
