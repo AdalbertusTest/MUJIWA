@@ -119,5 +119,7 @@ Ten zatím není, bude generován jakmile bude web v provozu jako open-beta.
 </picture>
 <br />
 <strong>Pro ty, kteří věnují svůj čas asijské kultuře</strong>
+<br />
+od roku 2019
 
 
