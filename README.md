@@ -103,7 +103,7 @@ Ten zatím není, bude generován jakmile bude web v provozu jako open-beta.
 <p>
         <a href="https://github.com/PROJECT-MUJIWA"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=GITHUB&message=odkaz&color=333333" alt="GITHUB PROJECT MUJIWA"/></a>
         <a href="https://discord.mujiwa.cz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=DISCORD&message=odkaz&color=5865F2" alt="DISCORD PROJECT MUJIWA"/></a>
-        <a href="https://discord.mujiwa.cz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=INSTAGRAM&message=odkaz&color=bd2c00" alt="INSTAGRAM PROJECT MUJIWA"/></a>
+        <a href="https://instagram.com/project_mujiwa"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=INSTAGRAM&message=odkaz&color=bd2c00" alt="INSTAGRAM PROJECT MUJIWA"/></a>
 </p>
 
 ## Projekt vytvořila skupina
