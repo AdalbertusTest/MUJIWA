@@ -45,13 +45,13 @@ Ten zatím není, bude generován jakmile bude web v provozu jako open-beta.
             <span align="center">🎉 💻 📐 🔬 🎇</span>
         </td>
         <td align="center">
-            <a href="https://github.com/nouzi"><img src="https://avatars.githubusercontent.com/u/93097307?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <a href="https://github.com/XarlMont"><img src="https://avatars.githubusercontent.com/u/93097307?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
             <sub><b>XarlMont</b></sub></a>
             <br/>
             <span align="center">🎉 🔬 🎇</span>
         </td>
          <td align="center">
-            <a href="https://github.com/nouzi"><img src="https://avatars.githubusercontent.com/u/37242088?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
+            <a href="https://github.com/Amachik"><img src="https://avatars.githubusercontent.com/u/37242088?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
             <sub><b>Amachik</b></sub></a>
             <br/>
             <span align="center">🔮 🔬 👫</span>
