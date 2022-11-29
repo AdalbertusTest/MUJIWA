@@ -56,7 +56,9 @@ Ten zatím není, bude generován jakmile bude web v provozu jako open-beta.
             <br/>
             <span align="center">🔮 🔬 👫</span>
         </td>
-        <td align="center">
+   </tr>
+   <tr>
+         <td align="center">
             <a href="https://github.com/nouzi"><img src="https://avatars.githubusercontent.com/u/77692484?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
             <sub><b>Nouzi</b></sub></a>
             <br/>
@@ -74,6 +76,8 @@ Ten zatím není, bude generován jakmile bude web v provozu jako open-beta.
             <br/>
             <span align="center">🔬 👫</span>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://github.com/papousekCZ"><img src="https://avatars.githubusercontent.com/u/31703353?v=4&s=100" style="height: 100px;border-radius:6px" alt="avatar" />  <br/>
             <sub><b>papousekCZ</b></sub></a>
